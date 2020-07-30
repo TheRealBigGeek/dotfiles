@@ -22,3 +22,11 @@ cd ~/dotfiles
 ```
 ./uninstall.sh
 ```
+# Updates
+### Download updates
+```
+cd dotfiles
+
+git pull https://github.com/TheRealBigGeek/dotfiles.git
+
+```
