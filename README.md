@@ -25,7 +25,7 @@ cd ~/dotfiles
 # Updates
 ### Download updates
 ```
-cd dotfiles
+cd ~/dotfiles
 
 git pull https://github.com/TheRealBigGeek/dotfiles.git
 
