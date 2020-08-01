@@ -6,7 +6,7 @@ alias ldot='ls -ld .*'
 #alias em='emacs -nw'
 #alias dd='dd status=progress'
 
-# ex - archive extractor [usage: ex <file>]
+# archive extractor [usage: ex <file>]
 ex ()
 {
   if [ -f $1 ] ; then
@@ -31,3 +31,7 @@ ex ()
 }
 
 export EDITOR=vim
+
+#command line
+alias h='history'
+alias help='man'
