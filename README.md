@@ -26,7 +26,7 @@ cd ~/dotfiles
 ### Download updates
 ```
 cd ~/dotfiles
-
+git stash
 git pull https://github.com/TheRealBigGeek/dotfiles.git
 
 ```
